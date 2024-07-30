@@ -1,0 +1,9 @@
+﻿Group;Mean;CI_lower;CI_upper
+fox;0.99;0.77;1.2
+human;0.76;0.58;0.93
+hyena_cubs;1.19;1.12;1.26
+wild_cat;0.62;0.54;0.7
+fox2;0.59;0.54;0.64
+lynx;1.38;1.02;1.73
+lynx2;1.62;1.44;1.80
+Escoural;0.77;0.6;0.94
