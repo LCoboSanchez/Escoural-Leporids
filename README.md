@@ -13,8 +13,7 @@ This repository contains the data and code for our paper:
 
 Please cite this compendium as:
 
-> Lucía Cobo-Sánchez, Anna Rufà, João Cascalheira (2024). *Compendium of R code and data for Alternating carnivore and Neanderthal activities at Escoural Cave: Insights from the taphonomic and machine learning analysis of leporid remains*. Accessed 30 Jul 2024. Online at
-> <https://doi.org/xxx/xxx>
+> Lucía Cobo-Sánchez, Anna Rufà, João Cascalheira (2024). *Compendium of R code and data for Alternating carnivore and Neanderthal activities at Escoural Cave: Insights from the taphonomic and machine learning analysis of leporid remains*. Accessed `r format(Sys.Date(), "%d %b %Y")`. Online at <https://doi.org/10.17605/OSF.IO/ZYU4P>
 
 ## Contents
 
