@@ -7,8 +7,7 @@
 
 This repository contains the data and code for our paper:
 
-> Lucía Cobo-Sánchez, Anna Rufà, João Cascalheira (2024). *Alternating carnivore and Neanderthal activities at Escoural Cave: Insights from the taphonomic and machine learning analysis of leporid remains*. Name of journal/book
-> <https://doi.org/xxx/xxx>
+> Lucía Cobo-Sánchez, Anna Rufà, João Cascalheira (2024). *Alternating carnivore and Neanderthal activities at Escoural Cave: Insights from the taphonomic and machine learning analysis of leporid remains*.
 
 ### How to cite
 

@@ -3,7 +3,7 @@ Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R:
     person("Lucía", "Cobo-Sánchez", , "lcsanchez@ualg.pt", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Description: This repository contains the data and code for our paper Alternating carnivore and Neanderthal activities at Escoural Cave: Insights from the taphonomic and machine learning analysis of leporid remains.
 License: MIT + file LICENSE
 ByteCompile: true
 Encoding: UTF-8
