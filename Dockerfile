@@ -2,7 +2,7 @@
 FROM rocker/verse:4.2.2
 
 # required
-MAINTAINER Lcuía Cobo-Sánchez <lcsanchez@ualg.pt>
+MAINTAINER Lucía Cobo-Sánchez <lcsanchez@ualg.pt>
 
 COPY . /Escoural-Leporids
 
