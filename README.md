@@ -3,7 +3,7 @@
 
 # Alternating carnivore and Neanderthal activities at Escoural Cave: Insights from the taphonomic and machine learning analysis of leporid remains
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LCoboSanchez/Escoural-Leporids/master?urlpath=rstudio)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LCoboSanchez/Escoural-Leporids/main?urlpath=rstudio)
 
 This repository contains the data and code for our paper:
 
